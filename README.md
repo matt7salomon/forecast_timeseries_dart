@@ -23,8 +23,8 @@ Time series forecasting is a crucial task in various fields, including finance, 
 To run this notebook on your local machine, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1
+cd forecast_timeseries_darts_macbook_m1
 pip install -r requirements.txt
 ```
 
